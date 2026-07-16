@@ -1,0 +1,18 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Nunito', sans-serif; background: #f9fbff; color: #333; }
+:root {
+  --sky: #2196F3;
+  --sky-dark: #1565C0;
+  --sun: #FFD600;
+  --leaf: #43A047;
+  --coral: #FF6B6B;
+  --purple: #7C4DFF;
+  --mint: #00BCD4;
+  --dark: #1A1A2E;
+  --white: #fff;
+  --muted: #666;
+  --light: #f9fbff;
+  --border: #e0e0e0;
+}
+a { text-decoration: none; color: inherit; }
+button { cursor: pointer; font-family: 'Nunito', sans-serif; }
